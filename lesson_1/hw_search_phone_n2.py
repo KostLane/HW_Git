@@ -97,6 +97,4 @@ def write_txt(filename, phone_book):
             file.write(line + '\n')
     return "Телефонная книга успешно сохранена"
 
-
-
 work_with_phonebook()
